@@ -1,0 +1,29 @@
+li {
+    list-style: none;
+    font-size: 30px;
+    color: #edcbb1;
+    background-color: #b7245c;
+    margin-bottom: 8px;
+}
+
+li:hover {
+    background-color: #7c3238;
+}
+
+#task {
+  width: 500px;
+  font-size: 40px;
+  border: solid rgb(190, 190, 190) 1px;
+  margin-left: 40%;
+}
+
+#submit {
+    display: inline-block;
+    padding: 10px 19px;
+    font-size: 30px;
+    border-radius: 4px;
+    background: #231f20;
+    color: #bb4430;
+    margin-top 20px;
+    margin-left: 52%;
+}
